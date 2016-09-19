@@ -1,0 +1,15 @@
+Instructions:
+
+1. Locate 7-eleven store
+
+2. Enter store
+
+3. Locate twinkies shelf
+
+4. Select twinkie
+
+5. Walk over to cash counter
+
+6. Pay for twinkie
+
+7. Eat twinkie
